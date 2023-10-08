@@ -1,0 +1,3 @@
+ACID Properties in DBMS
+
+Indexing in DBMS
